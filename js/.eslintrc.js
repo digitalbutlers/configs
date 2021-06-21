@@ -12,5 +12,9 @@ module.exports = {
   },
   rules: {
     'linebreak-style': 2,
+    'no-plusplus': 0,
+    'no-use-before-define': 0,
+    'no-extra-boolean-cast': 0,
+    'no-loop-func': 0,
   },
 };
