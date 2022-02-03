@@ -7,15 +7,11 @@ module.exports = {
     'airbnb-base',
   ],
   parserOptions: {
-    ecmaVersion: 12,
-    sourceType: 'module',
+		ecmaVersion: 'latest',
   },
   rules: {
     'linebreak-style': 0,
     'no-multiple-empty-lines': [1, { max: 2 }],
-    'no-plusplus': 0,
-    'no-extra-boolean-cast': 0,
-    'no-loop-func': 0,
-    'no-param-reassign': 0,
+    'indent': [1, 'tab'],
   },
 };
