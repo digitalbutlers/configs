@@ -14,3 +14,7 @@
 const texts = dacument.querySelectorAll('p');
 
 console.log(texts.lenght);
+
+window.onload= function () {
+	alert(lol)
+}
