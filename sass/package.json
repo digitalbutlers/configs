@@ -1,0 +1,14 @@
+{
+	"name": "stylelint-config",
+	"version": "1.0.0",
+	"author": "digitalbutlers",
+	"license": "ISC",
+	"devDependencies": {
+		"stylelint": "^14.8.5",
+		"stylelint-color-format": "^1.1.0",
+		"stylelint-config-idiomatic-order": "^8.1.0",
+		"stylelint-config-recommended": "^7.0.0",
+		"stylelint-scss": "^4.2.0",
+		"stylelint-use-logical-spec": "^4.0.0"
+	}
+}
